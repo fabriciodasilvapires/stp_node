@@ -1,17 +1,17 @@
-# UNIVERSIDADE FEDERAL DE GOIÁS
+# UFG - UNIVERSIDADE FEDERAL DE GOIÁS
 
-# INSTITUTO DE INFORMÁTICA
+# INF - INSTITUTO DE INFORMÁTICA
 
 ## ESPECIALIZAÇÃO EM DESENVOLVIMENTO WEB E MOBILE – FULL STACK
 
-## Programação Back-End Avançada
+## PROGRAMAÇÃO BACK-END AVANÇADA
 
 ### Prof. Esp. Paulo Roberto
 
 
 
 
-- Fabricio da Silva Pires
+* Fabricio da Silva Pires *
 
 
 
